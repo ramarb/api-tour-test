@@ -1,0 +1,1 @@
+/**/<?php echo $_GET['callback']?>({"message":"Something went wrong","error":1})
